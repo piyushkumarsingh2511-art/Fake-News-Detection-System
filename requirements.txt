@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+requests
+python-dotenv
+scikit-learn
+transformers
+torch
+spacy
+nltk
